@@ -1,22 +1,3 @@
-// let hasan = [1, 2, 3, 4, 5]
-
-// let toplam = 0
-// console.log(hasan.map(item => toplam += item) ) 
-// console.log(toplam)
-
-
-// let a = hasan.reduce((acc, el) => acc += el)
-// console.log(a)
-
-// let b = hasan.filter(el => el % 2 === 0)
-// console.log(b)
-
-// let deneme = []
-// let ccc = []
-// hasan.map(el => el % 2 === 0 ? deneme.push(el) : ccc.push(el))
-// console.log(deneme)
-// console.log(ccc)
-
 // Create a function called shortcut to remove the lowercase vowels (a, e, i, o, u ) in a given string.
 
 // Examples
